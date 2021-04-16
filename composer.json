@@ -1,0 +1,18 @@
+{
+    "name": "fabio/backendtask",
+    "description": "Backend Test",
+    "authors": [
+        {
+            "name": "Fabio Lima",
+            "email": "fabioolima@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.3"
+    }
+}
